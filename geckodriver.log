@@ -1,0 +1,243 @@
+1665475628286	geckodriver	INFO	Listening on 127.0.0.1:62032
+1665475632165	geckodriver	INFO	Listening on 127.0.0.1:62056
+1665475685736	geckodriver	INFO	Listening on 127.0.0.1:62294
+1665475722585	geckodriver	INFO	Listening on 127.0.0.1:62456
+1665475760228	geckodriver	INFO	Listening on 127.0.0.1:62631
+1665475878736	geckodriver	INFO	Listening on 127.0.0.1:63175
+1665475878741	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63176" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofilet3QslK"
+1665475881655	Marionette	INFO	Marionette enabled
+2022-10-11 16:11:21.664 plugin-container[54094:2731063] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:11:21.665 plugin-container[54094:2731063] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665475881681	Marionette	INFO	Listening on port 63195
+Read port: 63195
+2022-10-11 16:11:21.764 plugin-container[54094:2731063] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:11:21.764 plugin-container[54094:2731063] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:11:21.764 plugin-container[54094:2731087] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:11:21.764 plugin-container[54094:2731087] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:63176
+1665475881948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofilet3QslK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63176/devtools/browser/b9482693-3477-4c1a-83ad-2dc4ed874aa8
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+1665475888548	Marionette	INFO	Stopped listening on port 63195
+1665475942871	geckodriver	INFO	Listening on 127.0.0.1:63564
+1665475943407	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63565" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofilepBo7qh"
+2022-10-11 16:12:23.801 plugin-container[54130:2732823] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:12:23.801 plugin-container[54130:2732823] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:12:23.803 plugin-container[54130:2732823] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:12:23.803 plugin-container[54130:2732823] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:12:23.803 plugin-container[54130:2732821] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:12:23.803 plugin-container[54130:2732821] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665475943823	Marionette	INFO	Marionette enabled
+1665475943844	Marionette	INFO	Listening on port 63576
+Read port: 63576
+WebDriver BiDi listening on ws://127.0.0.1:63565
+1665475943959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofilepBo7qh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63565/devtools/browser/7d841e17-f019-47be-a4f0-8dbea03a9bb1
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+1665475950131	Marionette	INFO	Stopped listening on port 63576
+1665476092540	geckodriver	INFO	Listening on 127.0.0.1:64341
+1665476092546	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64342" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofile3AehlP"
+2022-10-11 16:14:52.913 plugin-container[54168:2736083] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:14:52.913 plugin-container[54168:2736083] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:14:52.915 plugin-container[54168:2736083] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:14:52.915 plugin-container[54168:2736083] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:14:52.915 plugin-container[54168:2736081] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:14:52.915 plugin-container[54168:2736081] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665476092915	Marionette	INFO	Marionette enabled
+1665476092949	Marionette	INFO	Listening on port 64351
+Read port: 64351
+WebDriver BiDi listening on ws://127.0.0.1:64342
+1665476093040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofile3AehlP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64342/devtools/browser/f41cd317-4db4-4877-a5d5-0ea9d80634a5
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+1665476099257	Marionette	INFO	Stopped listening on port 64351
+1665476403597	geckodriver	INFO	Listening on 127.0.0.1:49428
+1665476403601	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49429" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofilebWzwVI"
+1665476403961	Marionette	INFO	Marionette enabled
+2022-10-11 16:20:03.970 plugin-container[54259:2743294] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:20:03.970 plugin-container[54259:2743294] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665476403980	Marionette	INFO	Listening on port 49434
+2022-10-11 16:20:03.982 plugin-container[54259:2743294] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:20:03.982 plugin-container[54259:2743294] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:20:03.982 plugin-container[54259:2743292] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:20:03.982 plugin-container[54259:2743292] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49434
+WebDriver BiDi listening on ws://127.0.0.1:49429
+1665476404083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofilebWzwVI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49429/devtools/browser/0cc85a70-1214-4c69-8d10-3402eeb03aae
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+1665476420786	Marionette	INFO	Stopped listening on port 49434
+1665476686579	geckodriver	INFO	Listening on 127.0.0.1:51026
+1665476686583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51027" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofilerfkH9F"
+1665476686963	Marionette	INFO	Marionette enabled
+1665476686989	Marionette	INFO	Listening on port 51032
+2022-10-11 16:24:46.993 plugin-container[54333:2748706] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:24:46.993 plugin-container[54333:2748706] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51032
+2022-10-11 16:24:47.018 plugin-container[54333:2748706] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:24:47.018 plugin-container[54333:2748706] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:24:47.019 plugin-container[54333:2748727] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:24:47.019 plugin-container[54333:2748727] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51027
+1665476687085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofilerfkH9F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51027/devtools/browser/b1892bc7-8456-46f7-be1f-7cfeafdf9e45
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+1665476704120	Marionette	INFO	Stopped listening on port 51032
+1665476799549	geckodriver	INFO	Listening on 127.0.0.1:51902
+1665476799554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51903" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofileUcNVmO"
+1665476799886	Marionette	INFO	Marionette enabled
+2022-10-11 16:26:39.891 plugin-container[54377:2751369] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:26:39.891 plugin-container[54377:2751369] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665476799902	Marionette	INFO	Listening on port 51908
+2022-10-11 16:26:39.931 plugin-container[54377:2751369] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:26:39.931 plugin-container[54377:2751369] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:26:39.932 plugin-container[54377:2751394] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:26:39.932 plugin-container[54377:2751394] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 51908
+WebDriver BiDi listening on ws://127.0.0.1:51903
+1665476800018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofileUcNVmO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51903/devtools/browser/c316c10b-1457-4e41-ae9c-84da10d7f395
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+1665476816852	Marionette	INFO	Stopped listening on port 51908
+1665476848647	geckodriver	INFO	Listening on 127.0.0.1:52510
+1665476848651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52511" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofile31IVTX"
+1665476848965	Marionette	INFO	Marionette enabled
+2022-10-11 16:27:28.984 plugin-container[54404:2752937] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:27:28.985 plugin-container[54404:2752937] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:27:28.986 plugin-container[54404:2752937] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:27:28.986 plugin-container[54404:2752937] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:27:28.986 plugin-container[54404:2752935] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:27:28.986 plugin-container[54404:2752935] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665476849085	Marionette	INFO	Listening on port 52517
+WebDriver BiDi listening on ws://127.0.0.1:52511
+Read port: 52517
+1665476849244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofile31IVTX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52511/devtools/browser/dd3de7f7-7698-424a-bbb5-8eebda7a4370
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+1665476865920	Marionette	INFO	Stopped listening on port 52517
+1665476932035	geckodriver	INFO	Listening on 127.0.0.1:53265
+1665476932039	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53266" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofile53k4RM"
+2022-10-11 16:28:52.324 plugin-container[54442:2755379] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:28:52.324 plugin-container[54442:2755379] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:28:52.327 plugin-container[54442:2755379] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:28:52.327 plugin-container[54442:2755379] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665476932328	Marionette	INFO	Marionette enabled
+2022-10-11 16:28:52.328 plugin-container[54442:2755377] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:28:52.328 plugin-container[54442:2755377] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665476932348	Marionette	INFO	Listening on port 53271
+Read port: 53271
+WebDriver BiDi listening on ws://127.0.0.1:53266
+1665476932505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofile53k4RM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53266/devtools/browser/c8810ad2-c24a-49a0-ba43-2a6f189309c4
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+1665476953405	Marionette	INFO	Stopped listening on port 53271
+1665477040553	geckodriver	INFO	Listening on 127.0.0.1:54218
+1665477040559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54219" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofileBt4CKx"
+1665477040956	Marionette	INFO	Marionette enabled
+2022-10-11 16:30:40.965 plugin-container[54477:2758081] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:30:40.965 plugin-container[54477:2758081] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:30:40.967 plugin-container[54477:2758081] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:30:40.967 plugin-container[54477:2758081] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:30:40.967 plugin-container[54477:2758112] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:30:40.967 plugin-container[54477:2758112] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665477040983	Marionette	INFO	Listening on port 54228
+WebDriver BiDi listening on ws://127.0.0.1:54219
+Read port: 54228
+1665477041213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofileBt4CKx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54219/devtools/browser/66f51ea7-e41f-47fb-ba9c-4d06df075f47
+1665477043458	Marionette	INFO	Stopped listening on port 54228
+1665477056480	geckodriver	INFO	Listening on 127.0.0.1:54332
+1665477056484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54333" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofilepLDyGp"
+*** You are running in headless mode.
+2022-10-11 16:30:56.665 plugin-container[54496:2758865] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:30:56.665 plugin-container[54496:2758865] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:30:56.667 plugin-container[54496:2758865] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:30:56.667 plugin-container[54496:2758865] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:30:56.667 plugin-container[54496:2758895] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:30:56.667 plugin-container[54496:2758895] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665477056668	Marionette	INFO	Marionette enabled
+1665477056675	Marionette	INFO	Listening on port 54338
+Read port: 54338
+WebDriver BiDi listening on ws://127.0.0.1:54333
+1665477056811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofilepLDyGp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54333/devtools/browser/0fce03d5-8f82-4685-9953-2f94d46cfa54
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+1665477078603	Marionette	INFO	Stopped listening on port 54338
+1665477103596	geckodriver	INFO	Listening on 127.0.0.1:55040
+1665477103600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55041" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofile9rCGPj"
+*** You are running in headless mode.
+2022-10-11 16:31:43.793 plugin-container[54517:2760456] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:31:43.793 plugin-container[54517:2760456] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:31:43.795 plugin-container[54517:2760456] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:31:43.795 plugin-container[54517:2760456] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:31:43.795 plugin-container[54517:2760452] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:31:43.795 plugin-container[54517:2760452] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665477103806	Marionette	INFO	Marionette enabled
+1665477103834	Marionette	INFO	Listening on port 55046
+Read port: 55046
+WebDriver BiDi listening on ws://127.0.0.1:55041
+1665477103980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofile9rCGPj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55041/devtools/browser/45d5cb88-f6ba-4cff-bc64-5c689559232d
+1665477105857	Marionette	INFO	Stopped listening on port 55046
+1665477122546	geckodriver	INFO	Listening on 127.0.0.1:55169
+1665477122550	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55170" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofileRgfwo9"
+*** You are running in headless mode.
+2022-10-11 16:32:02.730 plugin-container[54526:2761281] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:32:02.730 plugin-container[54526:2761281] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:32:02.731 plugin-container[54526:2761281] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:32:02.731 plugin-container[54526:2761281] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 16:32:02.732 plugin-container[54526:2761289] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 16:32:02.732 plugin-container[54526:2761289] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665477122737	Marionette	INFO	Marionette enabled
+1665477122744	Marionette	INFO	Listening on port 55176
+Read port: 55176
+WebDriver BiDi listening on ws://127.0.0.1:55170
+1665477122874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wz/nykyh5gs2ydchhm_zdd_mkth0000gn/T/rust_mozprofileRgfwo9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55170/devtools/browser/d08643e4-4a7f-42bb-8b2e-7cbb06cc9028
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+JavaScript error: https://mops.twse.com.tw/mops/web/js/mops2.js, line 4037: TypeError: document.querySelector(...) is null
+1665477143190	Marionette	INFO	Stopped listening on port 55176
